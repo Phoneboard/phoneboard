@@ -1,6 +1,11 @@
 {
 	"version": [{
 		"platform": "windows",
-		"version": "1.1.0"
+		"arch": "x86",
+		"version": "1.2.0"
+	},{
+		"platform": "linux",
+		"arch": "x86_64",
+		"version": "1.2.0"
 	}]
 }
