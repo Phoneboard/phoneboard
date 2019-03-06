@@ -2,6 +2,49 @@
 
 All notable changes will be documented in this file.
 
+## v1.4.3
+#### Changed
+* Update settings dialog.
+#### Fixes
+* [macOS] Fix font size.
+* Reset rotation before loading a new board.
+##### iPhone 6 [820-3486-A]
+* C1271 misspelled as R1271_RF. Reported by Ruuben Vuolasranta.
+* C5217_RF misspelled as R5217. Reported by Ruuben Vuolasranta.
+* C5212_RF misspelled as R5212. Reported by Ruuben Vuolasranta.
+* C5208_RF misspelled as R5208_RF. Reported by Ruuben Vuolasranta.
+* L5123_RF misspelled as C5123_RF. Reported by Ruuben Vuolasranta.
+* C5211-RF misspelled as L5211_RF. Reported by Ruuben Vuolasranta.
+* R5131_RF misspelled as R51316_RF. Reported by Ruuben Vuolasranta.
+* U5201_RF misspelled as U5301_RF.
+* U1703 misspelled as J1703.
+* R5317_RF misspelled as R5217_RF. Reported by @vladwpf.
+* R5319_RF misspelled as R5218_RF. Reported by @vladwpf.
+* R5318_RF misspelled as R5218_RF. Reported by @vladwpf.
+* R5316_RF misspelled as R5216_RF. Reported by @vladwpf.
+* R2405 misspelled as R2403. Reported by @vladwpf.
+##### iPhone 6 Plus [820-3675-A]
+* C0721-2 is named as C0721-1.
+* C5411_RF-1 Wrong shape.
+* C5411_RF-2 Wrong shape.
+* U5411_RF Ball sizes aren't uniform.
+* Net BATTERY_SWI misspelled as BAATTERY_SWI. Reported by @berrytechnics
+* Net AP_TO_TIGRIS_SWI misspelled as AAP_TO_TIGRIS_SWI. Reported by @berrytechnics
+* IC U2201 misspelled as C2201.
+##### iPhone 6S Plus [820-00040-A]
+* UTRIP_RF Pins [3, 4, 8, 9] shapes are rounded and must be square.
+* U_VOX_RF Pins [1, 4-8, 13, 16-22, 26] shapes are rounded and must be square.
+* F5202_RF misspelled as FL5202_RF
+* F5202_RF Pins [4, 5, 6] shapes are rounded and must be square.
+##### iPhone 7 [820-00188-08 Qualcomm]
+* SE2LDO_RF misspelled as SE2LD0_RF.
+#### Added
+* [macOS] Add Menu.
+* Add IC Mark in iPhone 6 [820-3486-A]
+* Add IC Mark in iPhone 6 Plus [820-3675-A]
+* Add IC Mark in iPhone 6S [820-5507-A]
+* Add IC Mark in iPhone 6S Plus.
+* Add IC Mark in iPhone 7 [820-00188-08]
 ## v1.4.2
 ### Fixes
 * Fixed 'F' shortcut key prevented writing in the search box.
