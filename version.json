@@ -2,7 +2,7 @@
 	"version": [{
 		"platform": "windows",
 		"arch": "x86",
-		"version": "1.5.0"
+		"version": "1.5.1"
 	},{
 		"platform": "linux",
 		"arch": "x86_64",
