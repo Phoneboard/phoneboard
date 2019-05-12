@@ -86,7 +86,8 @@ def remove_pages(document, drop_list):
 def remove_annotations(document):
     for page_number in range(0, document.pageCount):
         page = document[page_number]
-        page.deleteAnnot(page.firstAnnot)
+        if page.firstAnnot is not None:
+            page.deleteAnnot(page.firstAnnot)
 
 
 def build_toc(document):
