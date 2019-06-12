@@ -2,11 +2,11 @@
 	"version": [{
 		"platform": "windows",
 		"arch": "x86",
-		"version": "1.5.1"
+		"version": "1.5.2"
 	},{
 		"platform": "linux",
 		"arch": "x86_64",
-		"version": "1.5.1"
+		"version": "1.5.2"
 	},{
 		"platform": "macos",
 		"arch": "x86_64",
