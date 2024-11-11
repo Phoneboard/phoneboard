@@ -1,0 +1,25 @@
+{
+  "updates": {
+    "windows": {
+      "open-url": "",
+      "latest-version": "2.0.0",
+      "download-url": "",
+      "changelog": "",
+      "mandatory": true
+    },
+    "osx": {
+      "open-url": "",
+      "latest-version": "2.0.0",
+      "download-url": "",
+      "changelog": "",
+      "mandatory": true
+    },
+    "linux": {
+      "open-url": "",
+      "latest-version": "2.0.0",
+      "download-url": "",
+      "changelog": "",
+      "mandatory": true
+    }
+  }
+}
